@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Nakahara
 
 
-- No momento estou aprendendo HTML, CSS e JavaScript
+- No momento estou aprendendo TypeScript
 - Contate-me no gmail: contatonakaharalucas2@gmail.com
 
 <div style="display: inline_block"><br>
