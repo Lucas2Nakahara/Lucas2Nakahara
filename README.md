@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Nakahara
 
 🚀 Buscando minha primeira oportunidade para crescer na área de desenvolvimento. 
-
+- Estudando e treinando Java e PHP.
 📚 Sempre aprendendo e aprimorando minhas habilidades, atualmente estudando
 - Contate-me no gmail: contatonakaharalucas2@gmail.com
 
