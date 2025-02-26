@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Nakahara
 
-
-- No momento estou aprendendo TypeScript
+🚀 Buscando minha primeira oportunidade para crescer na área de desenvolvimento. 
+📚 Sempre aprendendo e aprimorando minhas habilidades, atualmente estudando
 - Contate-me no gmail: contatonakaharalucas2@gmail.com
 
 <div style="display: inline_block"><br>
