@@ -1,10 +1,12 @@
 ## Olá! Eu sou o Lucas Nakahara
 
-🚀 Buscando minha primeira oportunidade para crescer na área de desenvolvimento. 
+Trabalho na área de Tecnologia, com um software da empresa que é mais voltado para empresas de RH, faço toda parte de desenvolvimento, testes, implantação do sistema, suporte ao cliente resolvendo Bugs do mesmo, cuido do backlog e afins. 
+
 - Estudando e treinando Java e PHP.
   
-📚 Sempre aprendendo e aprimorando minhas habilidades, atualmente estudando
-- Contate-me no gmail: contatonakaharalucas2@gmail.com
+📚 Sempre aprendendo e aprimorando minhas habilidades, atualmente estudando e trabalhando na área de TI.
+
+- Contate-me: 44 9 9866-7380.
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Lucas2Nakahara"></a>
