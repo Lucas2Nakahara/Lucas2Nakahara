@@ -2,9 +2,6 @@
 
 Sou desenvolvedor na área de Tecnologia, responsável pelo desenvolvimento, testes e implantação de um software voltado para empresas de RH. Atuo na manutenção e evolução contínua do sistema, garantindo a melhor experiência para os usuários. Além disso, gerencio o backlog, realizo suporte técnico para resolução de bugs e busco constantemente otimizar a performance e a usabilidade da plataforma.
 
-
-
-- Estudando e treinando Java e PHP.
   
 📚 Sempre aprendendo e aprimorando minhas habilidades, atualmente estudando e trabalhando na área de TI.
 
