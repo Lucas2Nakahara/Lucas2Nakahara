@@ -5,7 +5,7 @@ Sou desenvolvedor na área de Tecnologia, responsável pelo desenvolvimento, tes
   
 📚 Sempre aprendendo e aprimorando minhas habilidades, atualmente estudando e trabalhando na área de TI.
 
-- Contate-me: 44 9 9866-7380.
+- Contate-me: 
 <a class="btn" target="_blank" href="https://wa.me/55{44998667380}">Contate-me.</a>
 
 <div style="display: inline_block"><br>
