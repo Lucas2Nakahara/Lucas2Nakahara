@@ -1,4 +1,4 @@
-##👋 Olá, eu sou Lucas Nakahara.
+👋 Olá, eu sou Lucas Nakahara.
 
 🚀 O que eu faço
 
