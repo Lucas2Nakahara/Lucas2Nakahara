@@ -1,4 +1,6 @@
-## Olá! Eu sou o Lucas Nakahara
+##👋 Olá, eu sou Lucas Nakahara.
+
+🚀 O que eu faço
 
 Sou desenvolvedor na área de Tecnologia, responsável pelo desenvolvimento, testes e implantação de um software voltado para empresas de RH. Atuo na manutenção e evolução contínua do sistema, garantindo a melhor experiência para os usuários. Além disso, gerencio o backlog, realizo suporte técnico para resolução de bugs e busco constantemente otimizar a performance e a usabilidade da plataforma.
 
