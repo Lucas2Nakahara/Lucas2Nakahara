@@ -9,13 +9,16 @@ Sou desenvolvedor na área de Tecnologia, responsável pelo desenvolvimento, tes
 
 <ul>
   <li>
-    <a href="https://lucasnakahara-portifolio.netlify.app/" target="_blank"><strong>Projeto Portifólio</strong></a> - Fiz meu site para apresentação do meu trabalho. Com HTML, CSS e JavaScript
+    <a href="https://lucasnakahara-portifolio.netlify.app/" target="_blank"><strong>Projeto Portifólio</strong></a> - Desenvolvi um site para apresentar meu trabalho, utilizando HTML, CSS e JavaScript. O projeto conta com uma interface moderna, responsiva e interativa, garantindo uma experiência agradável para os visitantes.
   </li>
   <li>
-    <a href="https://lucasnakahara-loja-de-cafe.netlify.app/" target="_blank"><strong>Projeto Coffee</strong></a> - Uma aplicação que é um site para empresas que trabalham com café, principalmente com vendas. Trabalhando com o HTML, CSS, JavaScript, as interações e responsividade foram feitas.
+    <a href="https://lucasnakahara-loja-de-cafe.netlify.app/" target="_blank"><strong>Projeto Coffee</strong></a> - Uma aplicação web voltada para empresas do setor cafeeiro, especialmente aquelas que trabalham com vendas. Desenvolvida com HTML, CSS e JavaScript, a plataforma oferece uma interface moderna e responsiva, garantindo uma experiência fluida para os usuários. Além disso, foram implementadas interações dinâmicas para aprimorar a navegação e a usabilidade.
   </li>
   <li>
-    <a href="https://lucas2nakahara-tela-de-login.netlify.app/" target="_blank"><strong>Projeto Login</strong></a> Projeto que basicamente aborda uma forma de tela de Login para usuários, utilizando HTML, CSS, JavaScript, para que tudo esteja funcionando da melhor forma forma.
+    <a href="https://lucas2nakahara-tela-de-login.netlify.app/" target="_blank"><strong>Projeto Login</strong></a> Este projeto consiste em uma tela de login para usuários, desenvolvida com HTML, CSS e JavaScript. Ele foi estruturado para garantir uma interface intuitiva, responsiva e segura, proporcionando uma experiência fluida para os usuários. O JavaScript é utilizado para validação de entrada, interatividade e possíveis integrações futuras com sistemas de autenticação.
+  </li>
+  <li>
+    <a href="https://ladingteste.netlify.app/" target="_blank"><strong>Projeto Para Agência de Viagens</strong></a> - Este site funciona como uma landing page voltada para empresas do setor de turismo. Ele serve como um ponto de entrada para clientes que desejam explorar e adquirir planos de viagens, pacotes turísticos e outras experiências personalizadas. Com HTML, CSS e JavaScript
   </li>
 </ul>
   
