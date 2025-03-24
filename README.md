@@ -20,6 +20,11 @@ Sou desenvolvedor na área de Tecnologia, responsável pelo desenvolvimento, tes
   <li>
     <a href="https://ladingteste.netlify.app/" target="_blank"><strong>Projeto Para Agência de Viagens</strong></a> - Este site funciona como uma landing page voltada para empresas do setor de turismo. Ele serve como um ponto de entrada para clientes que desejam explorar e adquirir planos de viagens, pacotes turísticos e outras experiências personalizadas. Com HTML, CSS e JavaScript
   </li>
+
+  <li>
+    <a href="https://mainportifolio.netlify.app/" target="_blank"><strong>Projeto Para Apresentar meu Trabalho</strong></a> - Desenvolvi um site para apresentar meu trabalho, utilizando HTML, CSS, JavaScript, além das poderosas ferramentas Bootstrap e React. O projeto conta com uma interface moderna e responsiva, aproveitando os recursos do Bootstrap para garantir um design elegante e adaptável a diferentes dispositivos. Além disso, usei o React para aprimorar a interatividade, proporcionando uma experiência fluida e dinâmica para os visitantes. O resultado é uma plataforma visualmente atraente e altamente funcional, oferecendo uma navegação intuitiva e envolvente.
+  </li>
+  
 </ul>
   
 📚 Sempre aprendendo e aprimorando minhas habilidades, atualmente estudando e trabalhando na área de TI.
