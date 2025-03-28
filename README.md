@@ -10,19 +10,24 @@ Sou desenvolvedor na área de Tecnologia, responsável pelo desenvolvimento, tes
 <ul>
   <li>
     <a href="https://lucasnakahara-portifolio.netlify.app/" target="_blank"><strong>Projeto Portifólio</strong></a> - Desenvolvi um site para apresentar meu trabalho, utilizando HTML, CSS e JavaScript. O projeto conta com uma interface moderna, responsiva e interativa, garantindo uma experiência agradável para os visitantes.
+    Tecnologias: HTML, CSS, JavaScript
   </li>
   <li>
     <a href="https://lucasnakahara-loja-de-cafe.netlify.app/" target="_blank"><strong>Projeto Coffee</strong></a> - Uma aplicação web voltada para empresas do setor cafeeiro, especialmente aquelas que trabalham com vendas. Desenvolvida com HTML, CSS e JavaScript, a plataforma oferece uma interface moderna e responsiva, garantindo uma experiência fluida para os usuários. Além disso, foram implementadas interações dinâmicas para aprimorar a navegação e a usabilidade.
+    Tecnologias: HTML, CSS, JavaScript
   </li>
   <li>
     <a href="https://lucas2nakahara-tela-de-login.netlify.app/" target="_blank"><strong>Projeto Login</strong></a> Este projeto consiste em uma tela de login para usuários, desenvolvida com HTML, CSS e JavaScript. Ele foi estruturado para garantir uma interface intuitiva, responsiva e segura, proporcionando uma experiência fluida para os usuários. O JavaScript é utilizado para validação de entrada, interatividade e possíveis integrações futuras com sistemas de autenticação.
+    Tecnologias: HTML, CSS, JavaScript
   </li>
   <li>
     <a href="https://ladingteste.netlify.app/" target="_blank"><strong>Projeto Para Agência de Viagens</strong></a> - Este site funciona como uma landing page voltada para empresas do setor de turismo. Ele serve como um ponto de entrada para clientes que desejam explorar e adquirir planos de viagens, pacotes turísticos e outras experiências personalizadas. Com HTML, CSS e JavaScript
+    Tecnologias: HTML, CSS, JavaScript
   </li>
 
   <li>
     <a href="https://mainportifolio.netlify.app/" target="_blank"><strong>Projeto Para Apresentar meu Trabalho</strong></a> - Desenvolvi um site para apresentar meu trabalho, utilizando HTML, CSS, JavaScript, além das poderosas ferramentas Bootstrap e React. O projeto conta com uma interface moderna e responsiva, aproveitando os recursos do Bootstrap para garantir um design elegante e adaptável a diferentes dispositivos. Além disso, usei o React para aprimorar a interatividade, proporcionando uma experiência fluida e dinâmica para os visitantes. O resultado é uma plataforma visualmente atraente e altamente funcional, oferecendo uma navegação intuitiva e envolvente.
+    Tecnologias: HTML, CSS, JavaScript, React, Bootstrap
   </li>
   
 </ul>
