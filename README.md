@@ -2,7 +2,7 @@
 
 <h3>🚀 O que eu faço</h3>
 
-Sou desenvolvedor na área de Tecnologia, responsável pelo desenvolvimento, testes e implantação de um software voltado para empresas de RH. Atuo na manutenção e evolução contínua do sistema, garantindo a melhor experiência para os usuários. Além disso, gerencio o backlog, realizo suporte técnico para resolução de bugs e busco constantemente otimizar a performance e a usabilidade da plataforma.
+Sou desenvolvedor na área de Tecnologia, responsável pelo desenvolvimento, testes e implantação de um software voltado para empresas de RH. Atuo na manutenção e evolução contínua do sistema, garantindo a melhor experiência para os usuários. Além disso, realizo suporte técnico para resolução de bugs e busco constantemente otimizar a plataforma.
 
 <h3>💼 Projetos</h3>
 <p>Aqui estão alguns dos meus projetos mais interessantes:</p>
