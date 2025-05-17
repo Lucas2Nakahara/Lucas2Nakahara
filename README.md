@@ -9,7 +9,7 @@ Sou Desenvolvedor de Software Full stack, responsável pelo desenvolvimento, tes
 
 <ul>
   <li>
-    <a href="https://lucasnakahara-portifolio.netlify.app/" target="_blank"><strong>Projeto Portifólio</strong></a> - Desenvolvi um site para apresentar meu trabalho, utilizando HTML, CSS e JavaScript. O projeto conta com uma interface moderna, responsiva e interativa, garantindo uma experiência agradável para os visitantes.
+    <a href="https://mainportifolio.netlify.app/" target="_blank"><strong>Projeto Portifólio</strong></a> - Desenvolvi um site para apresentar meu trabalho, utilizando HTML, CSS e JavaScript. O projeto conta com uma interface moderna, responsiva e interativa, garantindo uma experiência agradável para os visitantes.
     Tecnologias: HTML, CSS, JavaScript
   </li>
   <li>
